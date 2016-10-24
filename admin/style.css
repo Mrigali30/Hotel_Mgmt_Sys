@@ -1,0 +1,207 @@
+@charset "utf-8";
+/* CSS Document */
+
+body
+{
+ margin:0;
+ padding:0;
+ background-color:#660099;
+
+}
+.main
+{
+ background-color:#FFFFFF;	
+	width:500px;
+	margin:auto;
+}
+.table
+{
+	background-color:#FFFFFF;
+	width:460px;
+	height:150px;
+	margin:20px;
+}
+.email
+{
+	width: 400px;
+	height:20px;
+	margin:4px;
+	float:left;
+}
+.mail
+{
+	width:50px;
+	height:10px;
+	margin:4px;
+	float:left;
+}
+.email-login
+{
+	width: 100px;
+	height:10px;
+	margin-left:20px;
+	float:left;
+}
+.password
+{
+	width: 400px;
+	height:20px;
+	margin:4px;
+	float:left;
+}
+.pass
+{
+	width:50px;
+	height:20px;
+	margin-left:4px;
+	float:left;
+	
+}
+.word
+{
+	width: 100px;
+	height:10px;
+	margin-left:24px;
+	float:left;
+}
+.submit
+{
+	width: 400px;
+	height:20px;
+	margin:10px;
+	float:left;
+}
+.dashboard_main
+{
+	width:1000px;
+	height:600px;
+	margin:auto;
+	
+}
+.header
+{
+ 	width:1000px;
+	height:100px;
+	
+	
+}
+.header_left
+{
+	width: 650px;
+	height:80px;
+	float:left;
+}
+.header_right
+{
+	width:335px;
+	height:80px;
+	float:left;
+	text-align:right;
+}
+.menu
+{
+	width:1000px;
+	height:50px;
+	margin:auto;			
+}
+.Dashboard
+{
+	background-color:#FFFFFF;
+	width:100px;
+	height:30px;
+	text-align:center;
+	line-height:25px;
+	margin:10px;
+	float:left;	
+margin-left:140px;
+	color:#0000FF;
+}
+.add_category
+{
+background-color:#FFFFFF;
+color:#0000FF;
+width:120px;
+	height:30px;
+	text-align:center;
+	line-height:25px;
+	margin:10px;
+	float:left;
+}
+.add_sub_category
+{
+background-color:#FFFFFF;
+width:150px;
+	height:30px;
+	text-align:center;
+	line-height:25px;
+	margin:10px;
+	float:left;
+	color:#0000FF;
+	}
+.add_rooms
+{
+background-color:#FFFFFF;
+width:100px;
+	height:30px;
+	text-align:center;
+	line-height:25px;
+	margin:10px;
+	color:#0000FF;
+	float:left;
+}
+.change_password
+{
+	background-color:#FFFFFF;
+	width:140px;
+	height:30px;
+	text-align:center;
+	line-height:25px;
+	margin:10px;
+	float:left;
+	color:#0000FF;
+}
+.content
+{
+	width:1000px;
+	height:auto;
+	margin:auto;
+}
+.content_header
+{
+	color:#FFFFFF;
+	width:1000px;
+	height:40px;
+	text-align:right;
+	float:left;		
+	padding-top:30px;
+}
+.main_content
+{
+	width:1000px;
+	height:auto;
+	margin:10px;
+	float:left;
+}
+.dash_footer
+{
+	
+	width:1000px;
+	height:10px;
+	margin:auto;
+	text-align:center;
+}	
+.content_head
+{
+	width:400px;
+	height:50px;
+	text-align:center;
+	
+}
+.add_cat
+{
+ color:#FFFFFF;
+ width:400px;
+ height:auto;
+ margin:20px;
+ 
+}

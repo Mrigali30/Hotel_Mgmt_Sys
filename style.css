@@ -1,0 +1,177 @@
+@charset "utf-8";
+/* CSS Document */
+body
+{
+ margin:0;
+ padding:0;
+ background-color:#CCCCCC;
+}
+.main
+{
+ background-color:#669933;
+ width:1000px;
+ height:auto;
+ margin:auto;
+}
+.header
+{
+ background-color:#6633CC;
+ width:980px;
+ height:100px;
+ text-align:left;
+ padding-left:20px;
+ font-size:30px;
+ color:#FFFFCC;
+ font-style:normal;
+ line-height:80px;
+ list-style:circle;
+ font-weight:bold;
+ text-shadow:#FF0000 3px 2px;
+ font-family:"Arial Rounded MT Bold";
+}
+.header_footer
+{
+ background-color:#990000;
+ width::1000px;
+ height:40px;
+}
+.menu
+{
+ width:800px;
+ height:40px;
+ float:left;
+}
+.menu_right
+{
+	width:150px;
+	height:40px;
+	float:left;
+}
+
+.content
+{
+ width:1000px;
+ height:300px;
+ background-color:#CCFF99;
+}
+.content_left
+{
+ background-color:#006699;
+ height:300px;
+ width:400px;
+ float:left; 
+ font-size:16px;
+}
+.content_right
+{
+ background-color:#CC0033;
+ height:300px;
+ width:600px;
+ float:left;
+ margin:auto;
+}
+.email
+{
+	width: 300px;
+	height:20px;
+	margin:4px;
+	float:left;
+}
+.mail
+{
+	width:50px;
+	height:10px;
+	margin:4px;
+	float:left;
+}
+.email-login
+{
+	width: 60px;
+	height:10px;
+	margin-left:20px;
+	float:left;
+}
+.password
+{
+	width: 400px;
+	height:20px;
+	margin:4px;
+	float:left;
+}
+.pass
+{
+	width:50px;
+	height:20px;
+	margin-left:4px;
+	float:left;
+	
+}
+.word
+{
+	width: 100px;
+	height:10px;
+	margin-left:24px;
+	float:left;
+}
+.submit
+{
+	width: 400px;
+	height:20px;
+	margin:10px;
+	float:left;
+}
+.co
+{
+ width:1000px;
+ height:120px;
+ background-color:#99CC00;
+ margin:auto;
+}
+.footer
+{
+ text-align:center;
+ background-color:#000000;
+ color:#FFFFFF;
+ font-weight:200;
+ width:1000px;
+
+}
+
+.signup
+{
+background-color:#66CCCC;
+height:500px;
+width:680px;
+padding-left:320px;
+}
+.name
+{
+width:500px;
+height:auto;
+}
+.full
+{
+ width: 180px;
+ height:auto;
+ float:left;
+ margin-top:10px;
+}
+.f_name
+{
+ width:500px;
+ height:auto;
+ margin-top:10px;
+ }
+
+.con
+{
+ background-color:#004000;
+ width:1000px;
+ height:30px;
+}
+.table
+{
+ background-color:#FF99CC;
+ width:1000px;
+ height:200px;
+}
